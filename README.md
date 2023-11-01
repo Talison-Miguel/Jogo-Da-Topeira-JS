@@ -56,7 +56,7 @@ Joguinho da toupeira feito com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Temporizador-de-Contagem-Regressiva.git
+  ❯ git clone https://github.com/Talison-Miguel/Jogo-Da-Topeira-JS.git
 ```
 
 ---
